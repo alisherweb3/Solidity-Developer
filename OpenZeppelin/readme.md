@@ -1,0 +1,6 @@
+- Tokens ERC-20 and ERC-71
+- Ownable and AccessControl
+- Verifications Merkl-prufs
+- Proxy patterns and upgrades
+- Meta-transactions and ERC2771
+- Split payments and vesting
